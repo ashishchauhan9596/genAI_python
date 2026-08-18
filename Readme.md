@@ -1,18 +1,3 @@
-# Assignment: File Handling Tasks (All Tasks)
-
-This folder contains `assignment.py`, a single script implementing multiple file-handling exercises. Below are per-task descriptions, run instructions, files affected, and notes.
-
-Prerequisite
-- Python 3.8+ (standard library only)
-
-How to run
-- Change to the folder and run the script:
-
-```bash
-cd python_01/python_tasks/GenAI-Task_4-AshishChahan
-python3 assignment.py
-```
-
 Files the script creates or modifies
 - `sales_data.txt`
 - `products.txt`
