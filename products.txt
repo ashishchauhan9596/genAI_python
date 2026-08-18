@@ -1,0 +1,4 @@
+Product Name | Price 
+apple : 💲45 
+banana : 💲56 
+mango : 💲45 
